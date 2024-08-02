@@ -1,0 +1,7 @@
+id,name,salary,position,department,hourly_rate
+15, Richard Harris, 70000.00, Manager, Operations, 37.00
+16, Susan Clark, 54000.00, Supervisor, Operations, 32.00
+17, Joseph Lewis, 46000.00, Worker, Operations, 24.00
+31, Elizabeth Carter, 70000.00, Manager, Operations, 34.00
+32, George Mitchell, 55000.00, Supervisor, Operations, 30.00
+33, Michelle Roberts, 46000.00, Worker, Operations, 25.00
