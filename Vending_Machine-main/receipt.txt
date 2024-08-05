@@ -1,0 +1,33 @@
+Receipt 2024-07-30T12:54:10.394322
+Product Name: Snickers
+Product Price: 2.0
+Receipt 2024-07-30T12:54:10.411170
+Product Name: Snickers
+Product Price: 2.0
+Receipt 2024-07-30T12:54:10.411475
+Product Name: Snickers
+Product Price: 2.0
+Receipt 2024-07-30T12:54:37.012760
+Product Name: Snickers
+Product Price: 2.0
+
+Receipt 2024-07-30T12:54:37.035121
+Product Name: Snickers
+Product Price: 2.0
+
+Receipt 2024-07-30T12:54:37.035554
+Product Name: Snickers
+Product Price: 2.0
+
+Receipt 2024-07-30T14:13:55.717315
+Product Name: Coca Cola
+Product Price: 1.75
+
+Receipt 2024-07-30T14:14:56.974354
+Product Name: Coca Cola
+Product Price: 1.75
+
+Receipt 2024-07-30T14:27:28.752095
+Product Name: Coca Cola
+Product Price: 1.75
+
