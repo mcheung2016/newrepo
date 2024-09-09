@@ -1,0 +1,27 @@
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <!-- Database Connection Setting -->
+        <property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+        <!-- Insert URL, Username and Password -->
+        <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/HealthcareManagementthreeDB</property>
+        <property name="hibernate.connection.username"></property>
+        <property name="hibernate.connection.password"></property>
+
+        <!-- SQL dialect -->
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+
+        <!-- Echo all executed SQL to stdout -->
+        <property name="hibernate.show_sql">false</property>
+
+        <!-- Drop and re-create the database schema on startup -->
+        <property name="hibernate.hbm2ddl.auto">update</property>
+
+        <!-- Names of annotated entity classes -->
+        <mapping class="com.healthcaremanagement.model.Patient"/>
+        <mapping class="com.healthcaremanagement.model.Doctor"/>
+        <mapping class="com.healthcaremanagement.model.Appointment"/>
+        <mapping class="com.healthcaremanagement.model.Office"/>
+    </session-factory>
+</hibernate-configuration>
